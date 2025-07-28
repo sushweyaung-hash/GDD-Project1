@@ -57,7 +57,7 @@ This game includes multiple stages, power-ups, and a final boss fight!
 
 ## 📹 Gameplay Video
 
-🎬 [Watch on YouTube]([https://youtube.com/your-link-here](https://youtu.be/7hOLmzAmqlI?si=l13EChJxnlhyZR-f))
+🎬 [Watch on YouTube]([https://youtu.be/7hOLmzAmqlI?si=mmEWEe4SioF2XtKv](https://youtu.be/7hOLmzAmqlI?si=mmEWEe4SioF2XtKv))
 
 Enjoy the game! All requirements and features are complete and tested.
 
