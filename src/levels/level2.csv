@@ -1,0 +1,11 @@
+frame,enemyType,x,y
+50,Alien1,200,0
+100,AlienZigZag,300,0
+150,PowerUp-SpeedUp,100,0
+200,Alien1,400,0
+250,AlienZigZag,500,0
+300,PowerUp-MultiShot,350,0
+350,Alien1,250,0
+400,AlienZigZag,150,0
+450,Alien1,600,0
+500,Boss,250,100 
